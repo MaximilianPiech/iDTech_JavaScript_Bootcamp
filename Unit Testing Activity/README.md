@@ -1,2 +1,2 @@
 # Unit Testing Activity
-This activity tests whether the correct text has been entered to match.
+This will greet the user depending on how they type their name.
