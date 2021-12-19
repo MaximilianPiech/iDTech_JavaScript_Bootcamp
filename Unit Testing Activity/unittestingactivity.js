@@ -1,6 +1,6 @@
 function Greet(name){
     console.log("Hello" + name + "!");
-    if (name == "") {
+    if (name = null) {
         console.log("Hello, there!");
     }
     if (name == name.toUpperCase()) {
