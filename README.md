@@ -1,2 +1,2 @@
 # JavaScript Bootcamp
-Hello this is the file.
+These are my projects.
